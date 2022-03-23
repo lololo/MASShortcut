@@ -6,7 +6,7 @@
 NSString *const MASShortcutBinding = @"shortcutValue";
 
 static const CGFloat MASHintButtonWidth = 23;
-static const CGFloat MASButtonFontSize = 11;
+static const CGFloat MASButtonFontSize = 14;
 
 #pragma mark -
 
