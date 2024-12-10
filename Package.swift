@@ -6,7 +6,7 @@ let package = Package(
     name: "MASShortcut",
     defaultLocalization: "en",
     platforms: [
-        .macOS(.v10_11),
+        .macOS(.v10_15),
     ],
     products: [
         .library(name: "MASShortcut",
